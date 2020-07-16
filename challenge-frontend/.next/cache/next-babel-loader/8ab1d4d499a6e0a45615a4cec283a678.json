@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport View from 'components/ViewQuestions';\nexport default function view() {\n  return __jsx(View, null);\n}","map":null,"metadata":{},"sourceType":"module"}

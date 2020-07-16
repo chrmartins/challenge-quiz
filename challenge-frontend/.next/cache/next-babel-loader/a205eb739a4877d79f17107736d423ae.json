@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Home() {}","map":{"version":3,"sources":["/home/chrmartins/myprojects/client/src/pages/index.tsx"],"names":["Home"],"mappings":"AAAA,eAAe,SAASA,IAAT,GAAgB,CAE9B","sourcesContent":["export default function Home() {\n  \n}\n"]},"metadata":{},"sourceType":"module"}

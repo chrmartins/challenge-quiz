@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport ViewQuestions from '../components/ViewQuestions';\nimport ListView from '../components/ListView';\nexport default function View() {\n  return __jsx(React.Fragment, null, __jsx(ViewQuestions, null), __jsx(ListView, null));\n}","map":null,"metadata":{},"sourceType":"module"}
